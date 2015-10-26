@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tab_with_viewPager</string>
+    <string name="tab1">tab测试1</string>
+    <string name="tab2">tab测试2</string>
+    <string name="tab3">tab测试3</string>
+    <string name="tab4">tab测试4</string>
+    <string name="tab5">tab测试5</string>
+</resources>
